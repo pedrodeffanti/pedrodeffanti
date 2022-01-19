@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pedrodeffanti
-- 👀 I’m interested in DataScience - Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me Data Science Academy
+- 👋 Hi, I'm Peter
+- 👀 I'm interested in Database - Programming in JavaScript, HTML, Python
+- 🌱 I am currently learning HTML
+- 💞️ I'm looking to collaborate in all areas of development
+- 📫 How to contact me? pedrodeffantijr@gmail.com or (19) 98241-5059 or whatsapp (19) 99938-1003
 
 <!---
 pedrodeffanti/pedrodeffanti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
