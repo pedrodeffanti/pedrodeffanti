@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Peter
+- 👋 Hi, I'm Pedro
 - 👀 I'm interested in Database, Power BI, Programming in JavaScript, HTML, Python
 - 🌱 I am currently learning HTML
 - 💞️ I'm looking to collaborate in all areas of development
