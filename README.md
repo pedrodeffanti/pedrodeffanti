@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Pedro
-- 👀 I'm interested in MySQL Workbench, Power BI, HTML, Java, Git.
+- 👀 I'm interested in MySQL Workbench, HTML, Java, Power BI, QA
 - 🌱 I am currently learning Git and Java
 - 💞️ I'm looking to collaborate in all areas of development
 - 📫 How to contact me? pedrodeffantijr@gmail.com -  (19) 98241-5059 - whatsapp (19) 99938-1003
