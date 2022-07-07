@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Pedro
-- 👀 I'm interested in SQL using MySQL Workbench, Python and Power BI.
+- 👀 I'm interested Python, Django and SQL
 - 🌱 I am currently learning Python.
 - 💞️ I'm looking to collaborate in all areas of development
 - 📫 How to contact me? pedrodeffantijr@gmail.com -  (19) 98241-5059 - whatsapp (19) 99938-1003
